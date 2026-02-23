@@ -75,6 +75,29 @@ This skill is automatically loaded when you need help with:
 
 ---
 
+## Installation (OpenClaw)
+
+### Option 1: Via skill-creator (recommended)
+```bash
+openclaw skill install https://github.com/Zzzeen2552/copywriting-mastery-skill
+```
+
+### Option 2: Manual
+1. Download this repo as `.zip`
+2. Extract to `~/.openclaw/workspace/skills/copywriting-mastery/`
+3. Rename folder to `SKILL.md`
+4. Restart OpenClaw
+
+### Option 3: Clone
+```bash
+cd ~/.openclaw/workspace/skills
+git clone https://github.com/Zzzeen2552/copywriting-mastery-skill.git copywriting-mastery
+mv copywriting-mastery/copywriting-mastery/* copywriting-mastery/
+rm -rf copywriting-mastery/copywriting-mastery
+```
+
+---
+
 ## License
 
 Made with ❤️ for the agency.
