@@ -24,7 +24,29 @@ who finally understands the reader.
 ---
 Skill type: Copywriting × Strategy × Consumer Psychology
 
-# How To Install
-- Terminal: "openclaw skill install" — easiest way
-- Manual download & extract
-- Direct Clone: https://github.com/Zzzeen2552/copywriting-mastery-skill
+## Installation (OpenClaw)
+
+### Option 1: Via skill-creator (recommended)
+```bash
+openclaw skill install https://github.com/Zzzeen2552/copywriting-mastery-skill
+```
+
+### Option 2: Manual
+1. Download this repo as `.zip`
+2. Extract to `~/.openclaw/workspace/skills/copywriting-mastery/`
+3. Rename folder to `SKILL.md`
+4. Restart OpenClaw
+
+### Option 3: Clone
+```bash
+cd ~/.openclaw/workspace/skills
+git clone https://github.com/Zzzeen2552/copywriting-mastery-skill.git copywriting-mastery
+mv copywriting-mastery/copywriting-mastery/* copywriting-mastery/
+rm -rf copywritingg-mastery/copywriting-mastery
+```
+
+---
+
+## License
+
+Made with ❤️ for the creative people.
