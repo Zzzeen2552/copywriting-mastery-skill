@@ -25,6 +25,6 @@ who finally understands the reader.
 Skill type: Copywriting × Strategy × Consumer Psychology
 
 # How To Install
-- "openclaw skill install` — easiest way"
+- Terminal: "openclaw skill install" — easiest way
 - Manual download & extract
-- Clone langsung: https://github.com/Zzzeen2552/copywriting-mastery-skill
+- Direct Clone: https://github.com/Zzzeen2552/copywriting-mastery-skill
