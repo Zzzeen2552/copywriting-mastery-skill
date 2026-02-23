@@ -22,5 +22,9 @@ pages that don't feel like advertising — they feel like someone
 who finally understands the reader.
 
 ---
-Built with: Claude Skill Framework
 Skill type: Copywriting × Strategy × Consumer Psychology
+
+# How To Install
+- "openclaw skill install` — easiest way"
+- Manual download & extract
+- Clone langsung: https://github.com/Zzzeen2552/copywriting-mastery-skill
