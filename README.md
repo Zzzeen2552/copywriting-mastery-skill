@@ -1,103 +1,28 @@
-# 🎯 Copywriting Mastery Skill
+# StoryMaster Skill
+### 7-Pillar Storytelling Framework Built from the Greatest Story Minds in History
 
-Master-level copywriting skill distilled from **6 of the greatest copywriters in history**.
+StoryMaster is an AI skill that fuses the methodology of six of the
+greatest storytelling masters who ever lived into one unified,
+actionable system.
 
-> *"Advertising people who ignore research are as dangerous as generals who ignore enemy signals."* — David Ogilvy
+Built from the life's work of:
+- Aristotle        — Catharsis, mimesis & the original structure of story
+- Joseph Campbell  — The Hero's Journey & the universal monomyth
+- Robert McKee     — Conflict as engine, beats, scenes & story architecture
+- Kurt Vonnegut    — Shapes of stories & the 8 rules of fiction
+- Donald Miller    — StoryBrand SB7 & the customer-as-hero framework
+- Pixar / Coats    — The Story Spine & 22 rules of emotional precision
 
----
+Distilled into 7 KEY PILLARS — covering every dimension of
+world-class storytelling: from hero and disruption, through conflict
+and structure, to transformation, emotional truth, and the craft
+of showing versus telling.
 
-## The Masters Roster
-
-| Copywriter | Era | Signature Strength | Known For |
-|---|---|---|---|
-| **Joe Coleman** | Modern | Creative concepting + visual-verbal fusion | D&AD award-winning campaigns |
-| **Laurence Bloom** | Modern | Commercial strategy + brand clarity | 40+ yrs, 1,000+ clients |
-| **Brian Clark** | Digital | Content-driven persuasion | Copyblogger, multi-million dollar businesses |
-| **Eugene Schwartz** | Classic | Market awareness calibration | *Breakthrough Advertising* — the $1,000 bible |
-| **Gary Halbert** | Classic | Starving crowd selection | *The Boron Letters*, highest-converting direct mail |
-| **David Ogilvy** | Classic | Research obsession + The Big Idea | "Father of Advertising" |
-
----
-
-## The 9 Key Pillars
-
-1. **Starving Crowd Selection** — Sell to the right people
-2. **Awareness Calibration** — Meet them where they are
-3. **Research as Foundation** — Facts over assumptions
-4. **Magnetic Headlines** — 5x more readers in the headline
-5. **Reader-First Empathy** — Channel existing desire
-6. **Conversational Clarity** — Human talking, not robot
-7. **Emotional Storytelling** — Logic thinks, emotion acts
-8. **Benefits Over Features** — Sell the hole, not the drill
-9. **Proof + Irresistible CTA** — Trust + Action
+Use this skill to craft stories for any format or purpose — brand
+narratives, personal essays, keynote speeches, scripts, case studies,
+social content, pitches, or creative writing — that don't just
+inform an audience. They move them.
 
 ---
-
-## Quick Reference
-
-### Formulas
-- **AIDA** — Attention → Interest → Desire → Action
-- **PAS** — Problem → Agitate → Solve
-- **Before-After-Bridge** — Before → After → Bridge
-- **4 P's** — Picture → Promise → Proof → Push
-
-### Headline Frameworks
-```
-How to [Desired Result] Without [Common Pain]
-The [Adjective] Way to [Outcome] Even If [Objection]
-[Number] Reasons Why [Common Belief] Is Costing You [Loss]
-Who Else Wants [Desired Outcome]?
-```
-
----
-
-## Usage
-
-This skill is automatically loaded when you need help with:
-- Sales pages & landing pages
-- Headlines & hooks
-- Email sequences
-- Ad copy
-- Product descriptions
-- Brand voice
-- Any persuasive writing
-
----
-
-## The 6 Golden Rules
-
-> **1.** Find the starving crowd before you write a word. *(Halbert)*
-> **2.** Enter the conversation already happening in their mind. *(Schwartz)*
-> **3.** Research is not preparation for copywriting. Research IS copywriting. *(Ogilvy)*
-> **4.** Every word must earn its place. *(Clark)*
-> **5.** Sell the destination. Not the plane, not the pilot. *(Blume)*
-> **6.** If it doesn't sound like a human talking — rewrite it. *(Coleman)*
-
----
-
-## Installation (OpenClaw)
-
-### Option 1: Via skill-creator (recommended)
-```bash
-openclaw skill install https://github.com/Zzzeen2552/copywriting-mastery-skill
-```
-
-### Option 2: Manual
-1. Download this repo as `.zip`
-2. Extract to `~/.openclaw/workspace/skills/copywriting-mastery/`
-3. Rename folder to `SKILL.md`
-4. Restart OpenClaw
-
-### Option 3: Clone
-```bash
-cd ~/.openclaw/workspace/skills
-git clone https://github.com/Zzzeen2552/copywriting-mastery-skill.git copywriting-mastery
-mv copywriting-mastery/copywriting-mastery/* copywriting-mastery/
-rm -rf copywriting-mastery/copywriting-mastery
-```
-
----
-
-## License
-
-Made with ❤️ for the agency.
+Built with: Claude Skill Framework
+Skill type: Storytelling × Narrative Structure × Emotional Craft
